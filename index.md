@@ -18,10 +18,10 @@
 
 # 发表论文
 ## 期刊论文
-- **Hong Yu**, Zheng-Hua Tan, Zhanyu Ma, Rainer Martin, and Jun Guo. "Spoofing detection in automatic speaker verification systems using DNN classifiers and dynamic acoustic features." IEEE transactions on neural networks and learning systems 29, no. 10 (2017): 4633-4644.
-- **Hong Yu**, Zheng-Hua Tan, Yiming Zhang, Zhanyu Ma, and Jun Guo. "DNN filter bank cepstral coefficients for spoofing detection." Ieee Access 5 (2017): 4779-4787.
+- **Hong Yu**, Zheng-Hua Tan, Zhanyu Ma\*, Rainer Martin, and Jun Guo. "Spoofing detection in automatic speaker verification systems using DNN classifiers and dynamic acoustic features." IEEE transactions on neural networks and learning systems 29, no. 10 (2017): 4633-4644.
+- **Hong Yu**, Zheng-Hua Tan, Yiming Zhang, Zhanyu Ma\*, and Jun Guo. "DNN filter bank cepstral coefficients for spoofing detection." Ieee Access 5 (2017): 4779-4787.
 - Ma, Zhanyu,**Hong Yu**\*, Wei Chen, and Jun Guo. "Short utterance based speech language identification in intelligent vehicles with time-scale modifications and deep bottleneck features." IEEE transactions on vehicular technology 68, no. 1 (2018): 121-128.
 - Ma, Zhanyu, **Hong Yu**\*, Zheng-Hua Tan, and Jun Guo. "Text-independent speaker identification using the histogram transform model." Ieee Access 4 (2016): 9733-9739.
-- Si, Zhongwei, **Hong Yu**, and Zhanyu Ma. "Learning deep features for dna methylation data analysis." IEEE Access 4 (2016): 2732-2737.
-- Xie, Jiyang, Zeyu Song, Yupeng Li, Yanting Zhang, **Hong Yu**, Jinnan Zhan, Zhanyu Ma, Yuanyuan Qiao, Jianhua Zhang, and Jun Guo. "A survey on machine learning-based mobile big data analysis: Challenges and applications." Wireless Communications and Mobile Computing 2018 (2018).
-- Ma, Zhanyu, Andrew Teschendorff, **Hong Yu**, Jalil Taghia, and Jun Guo. "Comparisons of non-Gaussian statistical models in DNA methylation analysis." International journal of molecular sciences 15, no. 6 (2014): 10835-10854.
+- Si, Zhongwei, **Hong Yu**, and Zhanyu Ma\*. "Learning deep features for dna methylation data analysis." IEEE Access 4 (2016): 2732-2737.
+- Xie, Jiyang, Zeyu Song, Yupeng Li, Yanting Zhang, **Hong Yu**, Jinnan Zhan, Zhanyu Ma\*, Yuanyuan Qiao, Jianhua Zhang, and Jun Guo. "A survey on machine learning-based mobile big data analysis: Challenges and applications." Wireless Communications and Mobile Computing 2018 (2018).
+- Ma, Zhanyu\*, Andrew Teschendorff, **Hong Yu**, Jalil Taghia, and Jun Guo. "Comparisons of non-Gaussian statistical models in DNA methylation analysis." International journal of molecular sciences 15, no. 6 (2014): 10835-10854.
