@@ -16,7 +16,7 @@
 - 主持山东省重点研发计划项目，基于语音的网约车司机身份认证与情绪监控研究，No.2019GGX101036，2019.8-2021.12
 - 主持高教司“产学合作，协同育人”项目，基于深度学习的智能语音处理， No.201901263008， 2019.10-2020.10
 
-#发表论文
+# 发表论文
 ## 期刊论文
 - **Hong Yu**, Zheng-Hua Tan, Zhanyu Ma, Rainer Martin, and Jun Guo. "Spoofing detection in automatic speaker verification systems using DNN classifiers and dynamic acoustic features." IEEE transactions on neural networks and learning systems 29, no. 10 (2017): 4633-4644.
 - **Hong Yu**, Zheng-Hua Tan, Yiming Zhang, Zhanyu Ma, and Jun Guo. "DNN filter bank cepstral coefficients for spoofing detection." Ieee Access 5 (2017): 4779-4787.
