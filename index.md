@@ -28,3 +28,10 @@
 - Si, Zhongwei, **Hong Yu**, and Zhanyu Ma\*. "Learning deep features for dna methylation data analysis." IEEE Access 4 (2016): 2732-2737.
 - Xie, Jiyang, Zeyu Song, Yupeng Li, Yanting Zhang, **Hong Yu**, Jinnan Zhan, Zhanyu Ma\*, Yuanyuan Qiao, Jianhua Zhang, and Jun Guo. "A survey on machine learning-based mobile big data analysis: Challenges and applications." Wireless Communications and Mobile Computing 2018 (2018).
 - Ma, Zhanyu\*, Andrew Teschendorff, **Hong Yu**, Jalil Taghia, and Jun Guo. "Comparisons of non-Gaussian statistical models in DNA methylation analysis." International journal of molecular sciences 15, no. 6 (2014): 10835-10854.
+
+## 会议论文
+- **Hong Yu**, Zheng-Hua Tan, Zhanyu Ma, and Jun Guo. "Adversarial network bottleneck features for noise robust speaker verification." InterSpeech(2017).
+- **Hong Yu**, Tianrui Hu, Zhanyu Ma, Zheng-Hua Tan, and Jun Guo. "Multi-task adversarial network bottleneck features for noise-robust speaker verification." In 2018 International Conference on Network Infrastructure and Digital Content (IC-NIDC), pp. 165-169. IEEE, 2018.
+- **Hong Yu**, Achintya Sarkar, Dennis Alexander Lehmann Thomsen, Zheng-Hua Tan, Zhanyu Ma, and Jun Guo. "Effect of multi-condition training and speech enhancement methods on spoofing detection." In 2016 First International Workshop on Sensing, Processing and Learning for Intelligent Machines (SPLINE), pp. 1-5. IEEE, 2016.
+- Sahidullah, Md, Héctor Delgado, Massimiliano Todisco, **Hong Yu**, Tomi Kinnunen, Nicholas Evans, and Zheng-Hua Tan. "Integrated spoofing countermeasures and automatic speaker verification: An evaluation on ASVspoof 2015." InterSpeech(2016).
+- Huang, Di, Ni Zhang, **Hong Yu**, Huanyu Zhou, Zhanyu Ma, Weisong Hu, and Jun Guo. "Activation force-based air pollution observation station clustering." In 2015 11th International Conference on Heterogeneous Networking for Quality, Reliability, Security and Robustness (QSHINE), pp. 115-121. IEEE, 2015.
