@@ -9,7 +9,7 @@
       <p><b>地址: 山东省烟台市芝罘区红旗中路186号逸夫楼B座509</b></p>     
     </td>
     <td width="25%">
-      <img src="/yuhong.jpg" width="100%">
+      <img src="/yuhong.JPG" width="100%">
     </td>
   </tr>
 </table>
